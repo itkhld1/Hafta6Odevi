@@ -36,6 +36,8 @@ fn_x(a: float, b: float, c: float) -> Optional[Tuple[float, float]]
 
 ## Handling a linear case (a == 0) before calling fn_x:
 
+```python
+# python
 a, b, c = 0, 2, -4
 if a == 0:
     if b == 0:

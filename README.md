@@ -46,8 +46,8 @@ if a == 0:
     print("Linear root:", x)
 else:
     print("Quadratic roots:", fn_x(a, b, c))
-    
 
+```
 ## Usage
 
 Basic usage (import from the package path used in this repository):
